@@ -8,3 +8,4 @@ University: *PJATK*
 adres: *Targ Drzewny*
 
 city: ``` Gdańsk ```
+city: ``` Gdańsk ```
