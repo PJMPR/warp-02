@@ -8,4 +8,5 @@ University: *PJATK*
 adres: *Targ Drzewny*
 
 city: ``` Gdańsk ```
-city: ``` Gdańsk ```
+
+Nie chce nic z tego
