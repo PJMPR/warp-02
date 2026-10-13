@@ -4,5 +4,7 @@
 
 author: **aurbanow**
 
-adres: *Targ Drzewny*
 University: *PJATK*
+adres: *Targ Drzewny*
+
+city: ``` Gdańsk ```
